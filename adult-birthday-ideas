@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Adult Birthday Party Ideas - Charleston</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.4.1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="#">Hen Parties Charleston</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="adult-birthday-ideas">B-day</a></li>
+            <li class="nav-item"><a class="nav-link" href="best-stores-bachelorettes">Stores</a></li>
+            <li class="nav-item"><a class="nav-link" href="best-walkable-city-charleston-for-bachelorettes">Walkable</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+          </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO SECTION -->
+  <section class="bg-light py-5 text-center">
+    <div class="container">
+      <h1 class="display-5 fw-bold">Adult Birthday Party Ideas<br>Girls Night in Charleston</h1>
+      <p class="lead">Celebrate your birthday in one of the most charming cities in the South — Charleston, South Carolina.</p>
+    </div>
+  </section>
+
+  <!-- MAIN CONTENT -->
+  <section class="container py-5">
+    <div class="row">
+      <div class="col-md-10 mx-auto">
+        <p>Whether you want to keep it chill or go full glam, here are 20 birthday party ideas that will turn your special day into something unforgettable.</p>
+
+        <h3 class="mt-5">🍽️ For the Foodies</h3>
+        <ul>
+          <li><strong>Progressive Dinner on Upper King Street:</strong> Oysters at The Darling, pasta at Indaco, and dessert at The Belmont.</li>
+        </ul>
+
+        <h3 class="mt-4">🍹 For the Party Crew</h3>
+        <ul>
+          <li><strong>Rooftop Bar Crawl:</strong> Citrus Club, The Watch, Uptown Social for dancing.</li>
+          <li><strong>Disco or Entertainer:</strong> Mesu or Uptown Social with bottomless brunch or hire <em>Michael At Your Place</em> for a live show.</li>
+          <li><strong>Private Party Boat Charter:</strong> Cruise Charleston Harbor with music and drinks.</li>
+          <li><strong>Spa Day:</strong> Massages, facials, and champagne at The Woodhouse Day Spa.</li>
+          <li><strong>Yoga + Brunch Morning:</strong> Private yoga and brunch at Basic Kitchen or The Park Cafe.</li>
+          <li><strong>Goat Yoga + Farm Visit:</strong> Goat yoga, wine, and farm fun at Flowertown Charm.</li>
+          <li><strong>Private Styling Party + Shopping:</strong> Boutique tour on King Street with a stylist.</li>
+          <li><strong>Live Music Night:</strong> Pour House or The Commodore for jazz, funk, or soul.</li>
+          <li><strong>Dessert Crawl:</strong> Kaminsky's, Off Track Ice Cream, and Sugar Bakeshop.</li>
+          <li><strong>Folly Beach Bachelorette:</strong> A full blog is available for Folly Beach fun ideas!</li>
+        </ul>
+
+        <h4 class="mt-5">🎉 Bonus Tips for Your Charleston Birthday Bash:</h4>
+        <ul>
+          <li><strong>Plan Ahead:</strong> Book early, especially in spring and fall.</li>
+          <li><strong>Dress the Part:</strong> Themed outfits or coordinated looks add fun.</li>
+          <li><strong>Make It Yours:</strong> Add custom themes, photographers, or party favors.</li>
+        </ul>
+
+        <p class="mt-4">Whether you’re sipping rosé on a rooftop, kayaking at sunset, or laughing over oysters, Charleston is full of unforgettable birthday party potential. Choose your vibe, grab your crew, and let this historic city give you the birthday glow-up you deserve.</p>
+
+        <p>Looking for downtown options? Check out Charleston bachelorette ideas.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-dark text-light py-3">
+    <div class="container text-center">
+      <p class="mb-0">&copy; 2025 Hen Parties Girls Gone Charleston | Powered by Astra WordPress Theme</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.4.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
